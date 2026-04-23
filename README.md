@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 <div align="center">
 
 # 🕵️ HunterAI - Bug Bounty Recon Tool v1.0
