@@ -69,3 +69,4 @@ python hunter_ai.py full --domain example.com --ai --output report.json
 
 ## ⚠️ Ogohlantirish
 Faqat ruxsat berilgan va qonuniy maqsadlar uchun ishlating!
+# bughunter.ai
