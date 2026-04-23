@@ -1,0 +1,5 @@
+shodan
+requests
+rich
+click
+anthropic
